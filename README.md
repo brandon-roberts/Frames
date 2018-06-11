@@ -1,0 +1,2 @@
+# Frames
+A modern framework.  Quickly design, develop, &amp; debug web applications using a light weight high speed framework.  Frames provides custom form elements, flex box grid system, form validation, complex calendar and schedules, login authentication, analytics, and so much more.  We are also working on a webgl project that will integrate with three.js to provide high speed 3d animations to to any element on the canvas.
